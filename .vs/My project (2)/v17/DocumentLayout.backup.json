@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thund\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\RunState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\RunState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\SurvivalTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SurvivalTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\LevelPortal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\LevelPortal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\PlayerController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\PlayerController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\LeaveGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LeaveGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\HudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\HudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\Chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\Chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\HudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SoundInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\SoundInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SpeedCalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\MainScript\\SpeedCalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainScript\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\EnemyStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainScript\\EnemyStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainScript\\Gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\HeroAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HeroAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\LanternData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\LanternDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\RadioKnob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\RadioKnob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\SceneLoader.cs*",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\SceneLoader.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:15:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HudController.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HudController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\HudController.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HudController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\HudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:14:29.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoundInput.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SoundInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\SoundInput.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SoundInput.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\SoundInput.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:00:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:54:45.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HudController.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\HudController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\HudController.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\HudController.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\HudController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:27:15.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\RunState.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\RunState.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\RunState.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\RunState.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:10:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelPortal.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\LevelPortal.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\LevelPortal.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\LevelPortal.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\LevelPortal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:10:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpeedCalc.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SpeedCalc.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\SpeedCalc.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\SpeedCalc.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\SpeedCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:48:04.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\Chicken.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\Chicken.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\Chicken.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\Chicken.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:14:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController1.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\PlayerController1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\MainScript\\PlayerController1.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\MainScript\\PlayerController1.cs",
+              "RelativeToolTip": "Assets\\Assets\\MainScript\\PlayerController1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:13:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScript\\Coin.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Coin.cs",
+              "RelativeToolTip": "Assets\\MainScript\\Coin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:08:13.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScript\\EnemyStats.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\MainScript\\EnemyStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T02:29:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Gem.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScript\\Gem.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\MainScript\\Gem.cs",
+              "RelativeToolTip": "Assets\\MainScript\\Gem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T00:31:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleLevelGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Assign9\\Scripts\\SimpleLevelGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:54:08.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HeroAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\HeroAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\HeroAnimation.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\HeroAnimation.cs",
+              "RelativeToolTip": "Assets\\HeroAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:00:57.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeroAnimation_1_run.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\HeroAnimation_1_run.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T21:59:22.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HeroAnimation_2_jump.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\HeroAnimation_2_jump.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:39:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LanternDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\LanternDisplay.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternDisplay.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\LanternDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:37:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LanternData.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternData.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\LanternData.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\LanternData.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\LanternData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:35:53.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RadioKnob.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\RadioKnob.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\RadioKnob.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\RadioKnob.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\RadioKnob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:32:54.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:28:18.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveGame.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\LeaveGame.cs",
+              "RelativeDocumentMoniker": "Assets\\LeaveGame.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\LeaveGame.cs",
+              "RelativeToolTip": "Assets\\LeaveGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:44:50.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quitbutton.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Quitbutton.cs",
+              "RelativeDocumentMoniker": "Assets\\Quitbutton.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Quitbutton.cs",
+              "RelativeToolTip": "Assets\\Quitbutton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:55:44.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurvivalTimer.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\SurvivalTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\SurvivalTimer.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\SurvivalTimer.cs",
+              "RelativeToolTip": "Assets\\SurvivalTimer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:46:29.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Spin.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\My project (2)\\Assets\\Spin.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin.cs",
+              "ToolTip": "C:\\Users\\thund\\My project (2)\\Assets\\Spin.cs",
+              "RelativeToolTip": "Assets\\Spin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:37:32.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
